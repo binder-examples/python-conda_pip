@@ -4,8 +4,8 @@ channels:
 dependencies:
   - python
   - numpy
-  - pip
-  - pip:
+  - conda
+  - conda:
     - nbgitpuller
     - sphinx-gallery
     - pandas
